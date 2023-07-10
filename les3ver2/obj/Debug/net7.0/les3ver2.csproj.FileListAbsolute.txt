@@ -1,0 +1,15 @@
+/Users/noname/Documents/practic/les3ver2/bin/Debug/net7.0/les3ver2
+/Users/noname/Documents/practic/les3ver2/bin/Debug/net7.0/les3ver2.deps.json
+/Users/noname/Documents/practic/les3ver2/bin/Debug/net7.0/les3ver2.runtimeconfig.json
+/Users/noname/Documents/practic/les3ver2/bin/Debug/net7.0/les3ver2.dll
+/Users/noname/Documents/practic/les3ver2/bin/Debug/net7.0/les3ver2.pdb
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/les3ver2.csproj.AssemblyReference.cache
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/les3ver2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/les3ver2.AssemblyInfoInputs.cache
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/les3ver2.AssemblyInfo.cs
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/les3ver2.csproj.CoreCompileInputs.cache
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/les3ver2.dll
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/refint/les3ver2.dll
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/les3ver2.pdb
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/les3ver2.genruntimeconfig.cache
+/Users/noname/Documents/practic/les3ver2/obj/Debug/net7.0/ref/les3ver2.dll

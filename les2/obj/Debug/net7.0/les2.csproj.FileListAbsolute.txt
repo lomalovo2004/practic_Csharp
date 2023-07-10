@@ -1,0 +1,15 @@
+/Users/noname/Documents/practic/les2/bin/Debug/net7.0/les2
+/Users/noname/Documents/practic/les2/bin/Debug/net7.0/les2.deps.json
+/Users/noname/Documents/practic/les2/bin/Debug/net7.0/les2.runtimeconfig.json
+/Users/noname/Documents/practic/les2/bin/Debug/net7.0/les2.dll
+/Users/noname/Documents/practic/les2/bin/Debug/net7.0/les2.pdb
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/les2.csproj.AssemblyReference.cache
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/les2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/les2.AssemblyInfoInputs.cache
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/les2.AssemblyInfo.cs
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/les2.csproj.CoreCompileInputs.cache
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/les2.dll
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/refint/les2.dll
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/les2.pdb
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/les2.genruntimeconfig.cache
+/Users/noname/Documents/practic/les2/obj/Debug/net7.0/ref/les2.dll

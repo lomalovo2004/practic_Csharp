@@ -1,0 +1,15 @@
+/Users/noname/Documents/practic/les4/bin/Debug/net7.0/les4
+/Users/noname/Documents/practic/les4/bin/Debug/net7.0/les4.deps.json
+/Users/noname/Documents/practic/les4/bin/Debug/net7.0/les4.runtimeconfig.json
+/Users/noname/Documents/practic/les4/bin/Debug/net7.0/les4.dll
+/Users/noname/Documents/practic/les4/bin/Debug/net7.0/les4.pdb
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/les4.csproj.AssemblyReference.cache
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/les4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/les4.AssemblyInfoInputs.cache
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/les4.AssemblyInfo.cs
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/les4.csproj.CoreCompileInputs.cache
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/les4.dll
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/refint/les4.dll
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/les4.pdb
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/les4.genruntimeconfig.cache
+/Users/noname/Documents/practic/les4/obj/Debug/net7.0/ref/les4.dll
